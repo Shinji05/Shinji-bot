@@ -1,2 +1,3 @@
 # Shinji-bot
-Music-Bot made by Oliver!
+Bot coded and made by Oliver/Shinji.
+Coded in Jda/Java.
